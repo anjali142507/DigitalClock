@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/watch-app/static/css/main.f2bdcaa0.css",
+    "main.js": "/watch-app/static/js/main.c389d1e5.js",
+    "static/js/453.d4de46a7.chunk.js": "/watch-app/static/js/453.d4de46a7.chunk.js",
+    "static/media/logo.svg": "/watch-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/watch-app/index.html",
+    "main.f2bdcaa0.css.map": "/watch-app/static/css/main.f2bdcaa0.css.map",
+    "main.c389d1e5.js.map": "/watch-app/static/js/main.c389d1e5.js.map",
+    "453.d4de46a7.chunk.js.map": "/watch-app/static/js/453.d4de46a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2bdcaa0.css",
+    "static/js/main.c389d1e5.js"
+  ]
+}
